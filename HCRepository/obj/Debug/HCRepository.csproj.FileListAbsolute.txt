@@ -1,0 +1,12 @@
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\HCRepository.dll.config
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\HCRepository.dll
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\HCRepository.pdb
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\EntityFramework.dll
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\HCContract.dll
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\HCContract.pdb
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\EntityFramework.xml
+C:\My Folders\HealthCareSolution\HCRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\My Folders\HealthCareSolution\HCRepository\obj\Debug\HCRepository.csprojResolveAssemblyReference.cache
+C:\My Folders\HealthCareSolution\HCRepository\obj\Debug\HCRepository.dll
+C:\My Folders\HealthCareSolution\HCRepository\obj\Debug\HCRepository.pdb

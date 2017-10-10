@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HealthCareModelStoreContainer" CdmEntityContainer="HealthCareEntities">
+    <EntitySetMapping Name="ResParties">
+      <EntityTypeMapping TypeName="HealthCareModel.ResParty">
+        <MappingFragment StoreEntitySet="ResParty">
+          <ScalarProperty Name="CareerId" ColumnName="CareerId" />
+          <ScalarProperty Name="PatId" ColumnName="PatId" />
+          <ScalarProperty Name="ResPartyId" ColumnName="ResPartyId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="getAllPatient" FunctionName="HealthCareModel.Store.getAllPatient">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="HealthCareModel.getAllPatient_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <EntitySetMapping Name="Patients">
+      <EntityTypeMapping TypeName="HealthCareModel.Patient">
+        <MappingFragment StoreEntitySet="Patient">
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="MiddeName" ColumnName="MiddeName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

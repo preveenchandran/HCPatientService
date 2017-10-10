@@ -1,0 +1,5 @@
+C:\My Folders\HealthCareSolution\HCDTO\bin\Debug\HCDTO.dll
+C:\My Folders\HealthCareSolution\HCDTO\bin\Debug\HCDTO.pdb
+C:\My Folders\HealthCareSolution\HCDTO\obj\Debug\HCDTO.csprojResolveAssemblyReference.cache
+C:\My Folders\HealthCareSolution\HCDTO\obj\Debug\HCDTO.dll
+C:\My Folders\HealthCareSolution\HCDTO\obj\Debug\HCDTO.pdb
