@@ -1,5 +1,0 @@
-C:\My Folders\HealthCareSolution\HCContract\bin\Debug\HCContract.dll
-C:\My Folders\HealthCareSolution\HCContract\bin\Debug\HCContract.pdb
-C:\My Folders\HealthCareSolution\HCContract\obj\Debug\HCContract.csprojResolveAssemblyReference.cache
-C:\My Folders\HealthCareSolution\HCContract\obj\Debug\HCContract.dll
-C:\My Folders\HealthCareSolution\HCContract\obj\Debug\HCContract.pdb
